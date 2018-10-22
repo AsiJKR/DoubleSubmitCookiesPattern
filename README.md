@@ -5,9 +5,9 @@ Steps:
 
 1.Run xammp server
 
-3.Clone this project folder and save it inside this folder - C:\xampp\htdocs\
+2.Clone this project folder and save it inside this folder - C:\xampp\htdocs\
 
-4.Open the browser and type http://localhost/DoubleSubmitCookiesPattern/login.html
+3.Open the browser and type http://localhost/DoubleSubmitCookiesPattern/login.html
 
 credentials 
 username : admin
